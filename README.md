@@ -2,9 +2,7 @@
 
 An intelligent PDF question-answering system powered by local AI models. Upload PDFs and ask questions about their content - completely free, private, and running 100% on your machine.
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 ## ✨ Features
 
